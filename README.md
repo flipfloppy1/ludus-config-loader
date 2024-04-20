@@ -1,2 +1,2 @@
 # ludus-config-loader
-A dynamic saving/loading system for settings in Ludus, a voxel game.
+A dynamic, header only saving/loading system for settings in Ludus, a voxel game.
