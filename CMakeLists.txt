@@ -12,7 +12,7 @@ FetchContent_Declare(
 FetchContent_Declare(
   LLG
   GIT_REPOSITORY https://github.com/flipfloppy1/ludus-log-generator.git
-  GIT_TAG        f5fa0c9b5f01662a962f5ca43bf7fc7a772716a9
+  GIT_TAG        main
 )
 
 FetchContent_MakeAvailable(json LLG)
